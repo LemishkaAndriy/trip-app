@@ -1,4 +1,4 @@
-1. install docker
+1. Install docker
 
 2. Please run commands:
 
