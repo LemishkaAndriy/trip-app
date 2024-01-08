@@ -1,0 +1,4 @@
+.table-responsive div.dataTables_wrapper div.dataTables_length select {
+    width: 60px;
+    display: inline-block;
+}
